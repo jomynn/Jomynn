@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pornchai Nimnoi</h1>
-<h3 align="center">Software Engineer at Teradyne Thailand</h3>
+<h3 align="center">Software Engineer </h3>
 
 - 🔭 I’m currently working on [Software Hardening](https://en.wikipedia.org/wiki/Hardening_(computing))
 
