@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pornchai Nimnoi</h1>
 <h3 align="center">Software Engineer </h3>
 
-- 🔭 I’m currently working on [Software Hardening](https://en.wikipedia.org/wiki/Hardening_(computing))
+- 🔭 I’m currently working on Software Delveoper & AI Automation)
 
 - 🌱 I’m currently learning **C#, Angular, Machine Learning**
 
