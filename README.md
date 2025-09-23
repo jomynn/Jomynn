@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jomy.nn@gmail.com**
 
+https://github.com/jomynn/Embedded-Software
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
